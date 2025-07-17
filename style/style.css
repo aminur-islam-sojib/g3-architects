@@ -95,3 +95,30 @@ main {
 .quickText button {
     text-align: start;
 }
+
+/* Feature  */
+.featureImg img {
+    width: 30rem;
+    height: auto;
+}
+#section-title {
+    border-left: 5px solid #FF900E;
+    line-height: 100%;
+    border-radius: 5px;
+}
+.featureCard {
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.06);
+    margin-bottom: 1.5rem;
+}
+.sub-sec-title{
+    font-weight: 600;
+}
+.featureCard p {
+    font-size: 0.7rem;
+}
+.experience {
+    /* text-align: center; */
+    padding: 2rem;
+}
